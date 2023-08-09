@@ -5,10 +5,6 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   </a>
-
-  
-
-  
 </p>
 
 <!--
