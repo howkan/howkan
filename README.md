@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'am+backend+delevoper)](https://git.io/typing-svg)
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)    
 
 
+* 
+* 
+*
+* I have been developing since 2021 :desktop_computer:
 
-
-
-
-
-
-<p align="center">
+<p align="left">
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp">
   </a>
@@ -31,19 +31,7 @@
   </a>
 </p>
 
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=howkan)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=howka&theme=default)
 
-<!--
-**howkan/howkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
