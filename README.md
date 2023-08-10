@@ -33,5 +33,5 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=howkan)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=howka&theme=default)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=howkan)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=howkan&theme=default)
 
