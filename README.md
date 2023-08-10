@@ -2,9 +2,10 @@
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)    
 
 
+
 * 
 * 
-*
+* Some tasks for the brain     [![codewars](https://www.codewars.com/users/howa/badges/small)](https://www.codewars.com/howa/username) 
 * I have been developing since 2021 :desktop_computer:
 
 <p align="left">
