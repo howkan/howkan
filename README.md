@@ -4,7 +4,7 @@
 
 
 * Some tasks for the brain     [![codewars](https://www.codewars.com/users/howa/badges/small)](https://www.codewars.com/howa/username) 
-* I have been developing since 2021 :desktop_computer:
+* I have been developing since 2019 :desktop_computer:
 
 <p align="left">
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
